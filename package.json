@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "kanis",
-    "url": "http://kanis-serveur.ddns.net",
+    "url": "http://lotchi-launcher.ddns.net",
     "engines": {
         "node": "^18.x.x"
     },
